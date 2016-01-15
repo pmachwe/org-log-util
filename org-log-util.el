@@ -1,9 +1,9 @@
 
-;;; org-log-util.el ---  -*- lexical-binding: t -*-
+;;; org-log-util.el --- org-log-util -*- lexical-binding: t -*-
 
 ;; Copyright (C) 2016 Parikshit Machwe
 
-;; Author: Parikshit Machwe <pmachwe@Parikshits-Mac-mini.local>
+;; Author: Parikshit Machwe <pmachwe@gmail.com>
 ;; Created: 14 Jan 2016
 ;; Version: 0.0.1
 ;; Keywords: org, capture, log, util, diff, stack trace
