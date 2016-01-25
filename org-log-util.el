@@ -46,8 +46,6 @@
   "Override this to save stack traces into this file"
   :group 'org-log-util)
 
-(setq org-log-util-diff-file "~/try.org")
-
 (defun org-log-util-get-buf-str (func-name buf-name)
   "Capture the buffer diff with file and return as string"
   (funcall func-name)
